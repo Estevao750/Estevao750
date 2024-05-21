@@ -16,7 +16,7 @@ Olá, sou Estevão
 
 ## Linguagens e Ferramentas
 
-<img src="https://static.vecteezy.com/system/resources/previews/033/535/086/non_2x/coding-coding-3d-illustrations-free-png.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="4380747-removebg-preview.png" align="right">
 
 #### Já tenho conhecimento:
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
