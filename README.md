@@ -2,20 +2,27 @@
 Olá, sou Estevão
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
  
 - 🔭 A procura de emprego
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
-  
- <div>
-  <a href="https://github.com/Estevao750">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estevao750&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevao750&layout=compact&langs_count=16&theme=dark"/>
+<br>
+
+<div align="center" style="margin-bottom:50px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Estevao750&theme=github_dark&show_icons=true" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+## Linguagens e Ferramentas
+
+<img src="https://static.vecteezy.com/system/resources/previews/033/535/086/non_2x/coding-coding-3d-illustrations-free-png.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+#### Já tenho conhecimento:
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
