@@ -26,3 +26,9 @@ Olá, sou Estevão
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
+
+#### Ferramentas:
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
