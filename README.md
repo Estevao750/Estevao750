@@ -32,3 +32,6 @@ Olá, sou Estevão
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+
+#### Sistemas Operacionais:
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/pt-br/windows)
