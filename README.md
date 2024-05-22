@@ -3,8 +3,8 @@ Olá, sou Estevão
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=2500&color=138FF7&random=false&width=435&lines=Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
 - 🔭 A procura de emprego
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
