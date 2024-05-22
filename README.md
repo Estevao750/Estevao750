@@ -1,9 +1,10 @@
 <h1 align="center">
 Olá, sou Estevão
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+    <img src="https://media4.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b952z6j49mr1yqfwgdmt4ola0awg73c0jgm8z5qzwgzb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30"></h2>
+</h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=2500&color=138FF7&random=false&width=435&lines=Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 - 🔭 A procura de emprego
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
@@ -31,4 +32,3 @@ Olá, sou Estevão
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
